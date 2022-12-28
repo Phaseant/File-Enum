@@ -1,2 +1,2 @@
-# File-Enum
+# FileEnum
 Script for enumerating files
